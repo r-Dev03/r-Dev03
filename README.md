@@ -1,3 +1,4 @@
+<img src="\Pictures\Saved Pictures\retro.gif" alt="">
 <h1 align="center">Hi 👋, I'm Ribbal Hussain</h1>
 <h3 align="center">A Software Engineer at 100Devs</h3>
 
