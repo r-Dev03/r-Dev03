@@ -1,7 +1,7 @@
 ![carbon (3)](https://user-images.githubusercontent.com/102923578/200948344-d3cb7583-5f58-4d28-b064-57eb87a4fa63.png)
 <p align="center" dir="auto">
 <a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
-<a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
+<a href = "https://twitter.com/r_dev00"> <img alt="LINKED-IN URL" src="https://img.shields.io/twitter/url?label=%7C%20LINKED-IN&logo=Linkedin&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
 <a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
 <a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
 <a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
