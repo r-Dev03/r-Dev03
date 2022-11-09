@@ -1,4 +1,4 @@
-![carbon (2)](https://user-images.githubusercontent.com/102923578/200947094-36882d78-366f-4197-9d75-107d1982eaaf.png)
+![carbon](https://user-images.githubusercontent.com/102923578/200947545-3566fc7a-6e0e-415f-9e70-9962c1803351.png)
 <h1 align="center">Hi 👋, I'm Ribbal Hussain</h1>
 <h3 align="center">A Software Engineer at 100Devs</h3>
 
