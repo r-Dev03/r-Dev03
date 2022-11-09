@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love working out**
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fr_dev00)
+![Twitter URL](https://twitter.com/r_dev00)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
