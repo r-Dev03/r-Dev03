@@ -1,4 +1,4 @@
-![carbon](https://user-images.githubusercontent.com/102923578/200947545-3566fc7a-6e0e-415f-9e70-9962c1803351.png)
+![carbon (3)](https://user-images.githubusercontent.com/102923578/200948344-d3cb7583-5f58-4d28-b064-57eb87a4fa63.png)
 
 - 🌱 I’m currently learning **JavaScript and Node.JS**
 
