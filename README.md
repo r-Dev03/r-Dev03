@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ribbal Hussain</h1>
 <h3 align="center">A Software Engineer at 100Devs</h3>
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fr_dev00)
 - 🌱 I’m currently learning **JavaScript and Node.JS**
 
 - 👨‍💻 All of my projects are available at [https://ribbalhussain.netlify.app/](https://ribbalhussain.netlify.app/)
