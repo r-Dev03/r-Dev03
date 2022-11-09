@@ -2,7 +2,7 @@
 <p align="center" dir="auto">
 <a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=%7C%20TWITTER&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
 <a href = "https://www.linkedin.com/in/ribbal-hussain-85a147239/"> <img alt="LINKED-IN URL" src="https://img.shields.io/twitter/url?label=%7C%20LINKED-IN&logo=Linkedin&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
-<a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
+<a href = "https://twitter.com/r_dev00"> <img alt="ANGEL-LIST URL" src="https://img.shields.io/twitter/url?label=%7C%20ANGEL-LIST&logo=AngelList&logoColor=yellow&style=flat-square&url=https%3A%2F%2Fangel.co%2Fprofile%2Fedit%2Foverview%3Fslug%3Dprofile"></a>
 <a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
 <a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
 </p>
