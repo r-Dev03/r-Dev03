@@ -1,5 +1,5 @@
 ![carbon (3)](https://user-images.githubusercontent.com/102923578/200948344-d3cb7583-5f58-4d28-b064-57eb87a4fa63.png)
-<a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
+<a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
 
 - 🌱 I’m currently learning **JavaScript and Node.JS**
 
