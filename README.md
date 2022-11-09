@@ -1,16 +1,11 @@
 ![carbon (3)](https://user-images.githubusercontent.com/102923578/200948344-d3cb7583-5f58-4d28-b064-57eb87a4fa63.png)
+<p align="center" dir="auto">
 <a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
-
-- 🌱 I’m currently learning **JavaScript and Node.JS**
-
-- 👨‍💻 All of my projects are available at [https://ribbalhussain.netlify.app/](https://ribbalhussain.netlify.app/)
-
-- 💬 Ask me about **Java, JavaScript or Object-Oriented Programming**
-
-- 📫 How to reach me **ribbalh0@gmail.com**
-
-- ⚡ Fun fact **I love working out**
-
+<a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
+<a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
+<a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
+<a href = "https://twitter.com/r_dev00"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/r_dev00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_dev00" height="30" width="40" /></a>
