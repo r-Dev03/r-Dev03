@@ -7,6 +7,95 @@
 </p>
 
 <p>My name is Ribbal Hussain, I am a Full-Stack software engineer based in Houston, Texas. I have a background with building and breaking technology, I use this to find better solutions for every day problems and incorporate them into my applications, which both challenge me as an engineer, but also provide the best experience for my clients. Let's build something together!
+  
+<table>
+<tbody><tr>
+<td width="50%">
+<h3 align="center" color="white" dir="auto"><a id="user-content-Viking's-Den" class="anchor" aria-hidden="true" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Viking's Den</h3>
+<div align="center" dir="auto">  
+<animated-image data-catalyst="" style="width: 100%;"><a href="https://vikingsden.netlify.app/" rel="nofollow" data-target="animated-image.originalLink">
+<img src="https://github.com/r-Dev03/Viking-Den/blob/main/images/Viking's-Den-ScreenShot.gif?raw=true" alt="Viking's Den" height="322px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://vikingsden.netlify.app/" target="_blank">
+          <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="Viking's Den" class="AnimatedImagePlayer-animatedImage" src="https://github.com/r-Dev03/Viking-Den/blob/main/images/Viking's-Den-ScreenShot.gif?raw=true" height="322px" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="396" height="322"></canvas></span>
+        </a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Viking's Den"></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Viking's Den">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open Viking's Den in new window" class="AnimatedImagePlayer-button" href="https://vikingsden.netlify.app/" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
+<br>
+<br>
+<p dir="auto">
+<a href="https://github.com/r-Dev03/Viking-Den">
+<img src="https://camo.githubusercontent.com/d0b4542870731be7cc21a69780395ff42dcebfce18cb88524b5a3cdff40fc8b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
+</a>  
+<a href="https://vikingsden.netlify.app/" rel="nofollow">
+<img src="https://camo.githubusercontent.com/9071a21bb92fb483b6ec89178729e78023c717407af13a0d5d412d24950aff22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d326534663765" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=2e4f7e" style="max-width: 100%;">
+</a>
+</p>
+<p dir="auto"><strong>JavaScript, CSS3, HTML5</strong> - A fully responsive, specialized, and modern website for a full-service men's salon with vanilla JavaScript.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center" color="white" dir="auto"><a id="user-content-Landscape-Collection" class="anchor" aria-hidden="true" href="#Landscape-Collection"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Landscape Collection</h3>
+<div align="center" dir="auto">  
+<animated-image data-catalyst="" style="width: 100%;"><a href="https://landscapecollection.netlify.app/" rel="nofollow" data-target="animated-image.originalLink">
+<img src="https://github.com/r-Dev03/Landscape-Collection/blob/main/images/LandScape-Collection-ScreenShot.gif?raw=true" alt="" height="322px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://landscapecollection.netlify.app/" target="_blank">
+          <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="LandScape-Collection-ScreenShot.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/r-Dev03/Landscape-Collection/blob/main/images/LandScape-Collection-ScreenShot.gif?raw=true" height="322px" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="396" height="322"></canvas></span>
+        </a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play LandScape-Collection-ScreenShot.gif?raw=true"></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play LandScape-Collection-ScreenShot.gif?raw=true">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open LandScape-Collection-ScreenShot.gif?raw=true in new window" class="AnimatedImagePlayer-button" href="https://landscapecollection.netlify.app/" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
+<br>
+<br>
+<p dir="auto">
+<a href="https://github.com/r-Dev03/Landscape-Collection">
+<img src="https://camo.githubusercontent.com/d0b4542870731be7cc21a69780395ff42dcebfce18cb88524b5a3cdff40fc8b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
+</a>  
+<a href="https://landscapecollection.netlify.app/" rel="nofollow">
+<img src="https://camo.githubusercontent.com/9071a21bb92fb483b6ec89178729e78023c717407af13a0d5d412d24950aff22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d326534663765" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=2e4f7e" style="max-width: 100%;">
+</a>
+</p>
+<p dir="auto"><strong>JavaScript, CSS3, HTML5</strong> - An online showcase of various landscapes captured by a multitude of photographers and designers using CSS and vanilla JavaScript.</p>
+</div>
+</td></tr></tbody></table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
