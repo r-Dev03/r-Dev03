@@ -145,7 +145,7 @@
 <td width="50%">
 <h3 align="center" color="white" dir="auto"><a id="user-content-Character-Select" class="anchor" aria-hidden="true" href="#Character-Select"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>[WIP] Character Select</h3>
 <div align="center" dir="auto">  
-<animated-image data-catalyst="" style="width: 100%;"><a href="#" rel="nofollow" data-target="animated-image.originalLink">
+<animated-image data-catalyst="" style="width: 100%;"><a href="https://character-select.cyclic.app/" rel="nofollow" data-target="animated-image.originalLink">
 <img src="https://github.com/r-Dev03/Clothing-Store/blob/main/Clothing%20Website/img/Character-Select.gif?raw=true" alt="" height="322px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
@@ -165,7 +165,7 @@
               <rect x="9" y="2" width="3" height="12" rx="1"></rect>
             </svg>
           </button>
-          <a data-target="animated-image.openButton" aria-label="Open Clothing-Store-ScreenShot.gif?raw=true in new window" class="AnimatedImagePlayer-button" href="https://character-select.cyclic.app/" target="_blank">
+          <a data-target="animated-image.openButton" aria-label="Open Clothing-Store-ScreenShot.gif?raw=true in new window" class="AnimatedImagePlayer-button" href="#" target="_blank">
             <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
               <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
             </svg>
