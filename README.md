@@ -178,7 +178,7 @@
 <a href="https://github.com/r-Dev03/Character-Select">
 <img src="https://camo.githubusercontent.com/d0b4542870731be7cc21a69780395ff42dcebfce18cb88524b5a3cdff40fc8b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
 </a>  
-<a href="#" rel="nofollow">
+<a href="https://character-select.cyclic.app/" rel="nofollow">
 <img src="https://camo.githubusercontent.com/9071a21bb92fb483b6ec89178729e78023c717407af13a0d5d412d24950aff22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d326534663765" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=2e4f7e" style="max-width: 100%;">
 </a>
 </p>
