@@ -143,9 +143,9 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white" dir="auto"><a id="user-content-Character-Select" class="anchor" aria-hidden="true" href="#Character-Select"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>[WIP] Character Select</h3>
+<h3 align="center" color="white" dir="auto"><a id="user-content-Character-Select" class="anchor" aria-hidden="true" href="#Character-Select"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> Character Select</h3>
 <div align="center" dir="auto">  
-<animated-image data-catalyst="" style="width: 100%;"><a href="https://character-select.cyclic.app/" rel="nofollow" data-target="animated-image.originalLink">
+<animated-image data-catalyst="" style="width: 100%;"><a href="https://character-select.up.railway.app/" rel="nofollow" data-target="animated-image.originalLink">
 <img src="https://github.com/r-Dev03/Clothing-Store/blob/main/Clothing%20Website/img/Character-Select.gif?raw=true" alt="" height="322px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
@@ -178,7 +178,7 @@
 <a href="https://github.com/r-Dev03/Character-Select">
 <img src="https://camo.githubusercontent.com/d0b4542870731be7cc21a69780395ff42dcebfce18cb88524b5a3cdff40fc8b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
 </a>  
-<a href="https://character-select.cyclic.app/" rel="nofollow">
+<a href="https://character-select.up.railway.app/" rel="nofollow">
 <img src="https://camo.githubusercontent.com/9071a21bb92fb483b6ec89178729e78023c717407af13a0d5d412d24950aff22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d326534663765" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=2e4f7e" style="max-width: 100%;">
 </a>
 </p>
