@@ -182,7 +182,7 @@
 <img src="https://camo.githubusercontent.com/9071a21bb92fb483b6ec89178729e78023c717407af13a0d5d412d24950aff22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d326534663765" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=2e4f7e" style="max-width: 100%;">
 </a>
 </p>
-<p dir="auto"><strong>MongoDB, Javascript, EJS, CSS, Express, NodeJS (MERN Stack)</strong> - A full-stack online clothing store app following a retro design with authentication and user cart functionality.</p>
+<p dir="auto"><strong>MongoDB, Javascript, EJS, CSS, HTML5, Express, NodeJS, REST </strong> - A full-stack online clothing store app following a retro design with authentication and user cart functionality.</p>
 </div>
 </td></tr></tbody></table>
 
