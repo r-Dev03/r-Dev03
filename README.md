@@ -189,7 +189,7 @@
 <img src="https://camo.githubusercontent.com/9071a21bb92fb483b6ec89178729e78023c717407af13a0d5d412d24950aff22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d326534663765" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=2e4f7e" style="max-width: 100%;">
 </a>
 </p>
-<p dir="auto"><strong> React.js, TailwindCSS, Node.js, Express.js, MongoDB, Cypress, Jest, </strong> Full stack calendar application for a 50,000 member coding community allowing users to create and view large-scale events. </p>
+<p dir="auto"><strong> React.js, TailwindCSS, Node.js, Express.js, MongoDB, Jest - </strong> Full stack calendar application for a 50,000 member coding community allowing users to create and view large-scale events. </p>
 </div>
 </td>
 
