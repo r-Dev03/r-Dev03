@@ -49,10 +49,10 @@
 <br>
 <p dir="auto">
 <a href="https://github.com/r-Dev03/Elden-Ring-Strategizer">
-<img src="https://camo.githubusercontent.com/d0b4542870731be7cc21a69780395ff42dcebfce18cb88524b5a3cdff40fc8b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/46cc078e7880d9f6736f0a53d6042bca498ee825b7d8ae505631cc205f0068bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d67697468756226636f6c6f723d343642383838" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github&amp;color=46B888" style="max-width: 100%;">
 </a>  
 <a href="" rel="nofollow">
-<img src="https://camo.githubusercontent.com/9071a21bb92fb483b6ec89178729e78023c717407af13a0d5d412d24950aff22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d326534663765" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=2e4f7e" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/ded50f8645d7ceadacab6bda5e839c4e44a7b1be04b875e00cb1e35bcdf4bafb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d303033363545" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=00365E" style="max-width: 100%;">
 </a>
 </p>
 <p dir="auto"><strong> React.js, HTML5, CSS3, JavaScript,  </strong> - [WIP] Strategizing Application for Elden Ring players. Ability to store data and search info through Elden Ring's open source API</p>
@@ -92,10 +92,10 @@
 <br>
 <p dir="auto">
 <a href="https://github.com/r-Dev03/Character-Select">
-<img src="https://camo.githubusercontent.com/d0b4542870731be7cc21a69780395ff42dcebfce18cb88524b5a3cdff40fc8b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/46cc078e7880d9f6736f0a53d6042bca498ee825b7d8ae505631cc205f0068bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d67697468756226636f6c6f723d343642383838" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github&amp;color=46B888" style="max-width: 100%;">
 </a>  
 <a href="https://character-select.up.railway.app/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/9071a21bb92fb483b6ec89178729e78023c717407af13a0d5d412d24950aff22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d326534663765" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=2e4f7e" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/ded50f8645d7ceadacab6bda5e839c4e44a7b1be04b875e00cb1e35bcdf4bafb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d303033363545" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=00365E" style="max-width: 100%;">
 </a>
 </p>
 <p dir="auto"><strong>MongoDB, Javascript, EJS, CSS, HTML5, Express, NodeJS, REST </strong> - A full-stack online clothing store app following a retro design with authentication and user cart functionality.</p>
@@ -139,10 +139,10 @@
 <br>
 <p dir="auto">
 <a href="https://github.com/r-Dev03/Poke-Match">
-<img src="https://camo.githubusercontent.com/d0b4542870731be7cc21a69780395ff42dcebfce18cb88524b5a3cdff40fc8b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/46cc078e7880d9f6736f0a53d6042bca498ee825b7d8ae505631cc205f0068bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d67697468756226636f6c6f723d343642383838" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github&amp;color=46B888" style="max-width: 100%;">
 </a>  
 <a href="https://nodejs-project-night.fly.dev/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/9071a21bb92fb483b6ec89178729e78023c717407af13a0d5d412d24950aff22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d326534663765" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=2e4f7e" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/ded50f8645d7ceadacab6bda5e839c4e44a7b1be04b875e00cb1e35bcdf4bafb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d303033363545" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=00365E" style="max-width: 100%;">
 </a>
 </p>
 <p dir="auto"><strong>HTML5, CSS3, JavaScript, Node.JS, REST </strong> - Pokemon memory and match card game using purely Node.js</p>
@@ -183,10 +183,10 @@
 <br>
 <p dir="auto">
 <a href="https://github.com/Together-100Devs/Together">
-<img src="https://camo.githubusercontent.com/d0b4542870731be7cc21a69780395ff42dcebfce18cb88524b5a3cdff40fc8b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/46cc078e7880d9f6736f0a53d6042bca498ee825b7d8ae505631cc205f0068bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d67697468756226636f6c6f723d343642383838" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github&amp;color=46B888" style="max-width: 100%;">
 </a>  
 <a href="https://together.cyclic.app/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/9071a21bb92fb483b6ec89178729e78023c717407af13a0d5d412d24950aff22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d326534663765" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=2e4f7e" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/ded50f8645d7ceadacab6bda5e839c4e44a7b1be04b875e00cb1e35bcdf4bafb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d303033363545" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=00365E" style="max-width: 100%;">
 </a>
 </p>
 <p dir="auto"><strong> React.js, TailwindCSS, Node.js, Express.js, MongoDB, Jest - </strong> Full stack calendar application for a 50,000 member coding community allowing users to create and view large-scale events. </p>
@@ -231,10 +231,10 @@
 <br>
 <p dir="auto">
 <a href="https://github.com/r-Dev03/Viking-Den">
-<img src="https://camo.githubusercontent.com/d0b4542870731be7cc21a69780395ff42dcebfce18cb88524b5a3cdff40fc8b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/46cc078e7880d9f6736f0a53d6042bca498ee825b7d8ae505631cc205f0068bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d67697468756226636f6c6f723d343642383838" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github&amp;color=46B888" style="max-width: 100%;">
 </a>  
 <a href="https://vikingsden.netlify.app/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/9071a21bb92fb483b6ec89178729e78023c717407af13a0d5d412d24950aff22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d326534663765" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=2e4f7e" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/ded50f8645d7ceadacab6bda5e839c4e44a7b1be04b875e00cb1e35bcdf4bafb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d303033363545" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=00365E" style="max-width: 100%;">
 </a>
 </p>
 <p dir="auto"><strong>JavaScript, CSS3, HTML5</strong> - A fully responsive, specialized, and modern website for a full-service men's salon with vanilla JavaScript.</p>
@@ -275,10 +275,10 @@
 <br>
 <p dir="auto">
 <a href="https://github.com/r-Dev03/Landscape-Collection">
-<img src="https://camo.githubusercontent.com/d0b4542870731be7cc21a69780395ff42dcebfce18cb88524b5a3cdff40fc8b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/46cc078e7880d9f6736f0a53d6042bca498ee825b7d8ae505631cc205f0068bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d67697468756226636f6c6f723d343642383838" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github&amp;color=46B888" style="max-width: 100%;">
 </a>  
 <a href="https://landscapecollection.netlify.app/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/9071a21bb92fb483b6ec89178729e78023c717407af13a0d5d412d24950aff22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d326534663765" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=2e4f7e" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/ded50f8645d7ceadacab6bda5e839c4e44a7b1be04b875e00cb1e35bcdf4bafb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d303033363545" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=00365E" style="max-width: 100%;">
 </a>
 </p>
 <p dir="auto"><strong>JavaScript, CSS3, HTML5</strong> - An online showcase of various landscapes captured by a multitude of photographers and designers using CSS and vanilla JavaScript.</p>
