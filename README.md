@@ -55,7 +55,7 @@
 <img src="https://camo.githubusercontent.com/ded50f8645d7ceadacab6bda5e839c4e44a7b1be04b875e00cb1e35bcdf4bafb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d303033363545" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=00365E" style="max-width: 100%;">
 </a>
 </p>
-<p dir="auto"><strong> React.js, HTML5, CSS3, JavaScript,  </strong> - [WIP] Strategizing Application for Elden Ring players. Ability to store data and search info through Elden Ring's open source API</p>
+<p dir="auto"><strong> React.js, HTML5, CSS3, JavaScript,  </strong> - Strategizing Application for Elden Ring players. Ability to store data and search info through Elden Ring's open source API</p>
 </div>
 <!-- Character Select -->
 <td width="50%">
