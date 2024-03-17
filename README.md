@@ -16,7 +16,7 @@
 <tbody><tr>
   <!--Elden Ring Strategizer -->
   <td width="50%">
-<h3 align="center" color="white" dir="auto"><a id="user-content-Elden-Ring-Strategizer" class="anchor" aria-hidden="true" href="#Character-Select"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> [WIP] Elden Ring Strategizer</h3>
+<h3 align="center" color="white" dir="auto"><a id="user-content-Elden-Ring-Strategizer" class="anchor" aria-hidden="true" href="#ed-strategizer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Elden Ring Strategizer</h3>
 <div align="center" dir="auto">  
 <animated-image data-catalyst="" style="width: 100%;"><a href="" rel="nofollow" data-target="animated-image.originalLink">
 <img src="https://res.cloudinary.com/dtyc44fjq/image/upload/v1684439919/chrome_g7yUbzN75D_s0rbxe.gif" alt="" height="322px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
@@ -51,7 +51,7 @@
 <a href="https://github.com/r-Dev03/Elden-Ring-Strategizer">
 <img src="https://camo.githubusercontent.com/46cc078e7880d9f6736f0a53d6042bca498ee825b7d8ae505631cc205f0068bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f2d6c69676874677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d67697468756226636f6c6f723d343642383838" data-canonical-src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&amp;logo=github&amp;color=46B888" style="max-width: 100%;">
 </a>  
-<a href="" rel="nofollow">
+<a href="https://elden-ring-strategizer.netlify.app/" rel="nofollow">
 <img src="https://camo.githubusercontent.com/ded50f8645d7ceadacab6bda5e839c4e44a7b1be04b875e00cb1e35bcdf4bafb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6976652d677265656e3f7374796c653d666f722d7468652d626164676526636f6c6f723d303033363545" data-canonical-src="https://img.shields.io/badge/-Live-green?style=for-the-badge&amp;color=00365E" style="max-width: 100%;">
 </a>
 </p>
