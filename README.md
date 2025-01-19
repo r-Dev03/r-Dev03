@@ -1,7 +1,7 @@
 ![Header](https://res.cloudinary.com/dtyc44fjq/image/upload/v1684780098/github-header-image_crwhva.png)
 <p align="center" dir="auto">
-<a href = "https://www.linkedin.com/in/ribbalh"> <img alt="LINKED-IN URL" src="https://img.shields.io/twitter/url?label=%7C%20LINKED-IN&logo=Linkedin&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fr_dev00"></a>
-<a href = "https://ribbalhussain.com/"> <img alt="WEBSITE URL" src="https://img.shields.io/twitter/url?label=%7C%20WEBSITE&logo=HTML5&logoColor=pink&style=plastic&url=https%3A%2F%2Fribbalhussain.netlify.app%2F"></a>
+<a href = "https://www.linkedin.com/in/ribbalh">LinkedIn</a>
+<a href = "https://ribbalhussain.com/">Portfolio</a>
 </p>
 
   <h3 align="center">Languages and Tools:</h3>
