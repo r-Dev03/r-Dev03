@@ -1,8 +1,4 @@
 ![Header](https://res.cloudinary.com/dtyc44fjq/image/upload/v1684780098/github-header-image_crwhva.png)
-<p align="center" dir="auto">
-<a href = "https://www.linkedin.com/in/ribbalh">LinkedIn</a>
-<a href = "https://ribbalhussain.com/">Portfolio</a>
-</p>
 
 
 
