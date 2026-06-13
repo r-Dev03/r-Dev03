@@ -3,16 +3,16 @@
 <div align="center">
 
 <a href="https://github.com/r-Dev03/Character-Select">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=Character-Select&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=Character-Select&theme=rose_pine" />
 </a>
 <a href="https://github.com/r-Dev03/Elden-Ring-Companion-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=Elden-Ring-Companion-Hub&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=Elden-Ring-Companion-Hub&theme=rose_pine" />
 </a>
 <a href="https://github.com/r-Dev03/travelbook-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=travelbook-frontend&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=travelbook-frontend&theme=rose_pine" />
 </a>
 <a href="https://github.com/r-Dev03/travelbook-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=travelbook-backend&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=travelbook-backend&theme=rose_pine" />
 </a>
 
 </div>
@@ -24,10 +24,10 @@
 <div align="center">
 
 <a href="https://github.com/r-Dev03/partpicker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=partpicker&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=partpicker&theme=rose_pine" />
 </a>
 <a href="https://github.com/r-Dev03/hotelmate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=hotelmate&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=hotelmate&theme=rose_pine" />
 </a>
 
 </div>
@@ -39,13 +39,13 @@
 <div align="center">
 
 <a href="https://github.com/r-Dev03/airiq">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=airiq&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=airiq&theme=rose_pine" />
 </a>
 <a href="https://github.com/r-Dev03/delivr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=delivr&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=delivr&theme=rose_pine" />
 </a>
 <a href="https://github.com/r-Dev03/shelfcast">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=shelfcast&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=shelfcast&theme=rose_pine" />
 </a>
 
 </div>
@@ -57,10 +57,10 @@
 <div align="center">
 
 <a href="https://github.com/r-Dev03/diglet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=diglet&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=diglet&theme=rose_pine" />
 </a>
 <a href="https://github.com/r-Dev03/dotstar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=dotstar&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=dotstar&theme=rose_pine" />
 </a>
 
 </div>
