@@ -55,12 +55,13 @@
 ## Systems
 
 <div align="center">
-
-<a href="https://github.com/r-Dev03/diglet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=diglet&theme=rose_pine" />
-</a>
+  
 <a href="https://github.com/r-Dev03/dotstar">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=dotstar&theme=rose_pine" />
 </a>
+<a href="https://github.com/r-Dev03/diglet">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=diglet&theme=rose_pine" />
+</a>
+
 
 </div>
