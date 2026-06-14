@@ -3,10 +3,10 @@
 <div align="center">
 
 <a href="https://github.com/r-Dev03/Character-Select">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=Character-Selec&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=Character-Select&theme=rose_pine" />
 </a>
 <a href="https://github.com/r-Dev03/Elden-Ring-Companion-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=Elden-Ring-Companion-Hu&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=Elden-Ring-Companion-Hub&theme=rose_pine" />
 </a>
 <a href="https://github.com/r-Dev03/travelbook-frontend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=travelbook-frontend&theme=rose_pine" />
@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=diglet&theme=rose_pine" />
 </a>
 <a href="https://github.com/r-Dev03/dotstar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=dotsta&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=dotstar&theme=rose_pine" />
 </a>
 
 </div>
