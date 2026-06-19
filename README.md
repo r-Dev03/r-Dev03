@@ -47,6 +47,9 @@
 <a href="https://github.com/r-Dev03/shelfcast">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=shelfcast&theme=rose_pine" />
 </a>
+<a href="https://github.com/r-Dev03/MNIST-Digit-Classifier">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-Dev03&repo=MNIST-Digit-Classifier&theme=rose_pine" />
+</a>
 
 </div>
 
