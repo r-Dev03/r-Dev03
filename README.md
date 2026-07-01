@@ -39,7 +39,7 @@
 <div align="center">
 
 <a href="https://github.com/r-Dev03/airiq">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=r-Dev03&repo=airiq&theme=rose_pine" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=r-Dev03&repo=airiq&theme=rose_pine&t=1751412345">
 </a>
 <a href="https://github.com/r-Dev03/delivr">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=r-Dev03&repo=delivr&theme=rose_pine" />
